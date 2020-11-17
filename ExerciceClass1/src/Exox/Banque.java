@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Banque {
 
 	static Scanner clavier = new Scanner(System.in) ;
-	public static in menu()
+	public static i menu()
 	{
 		int choix;
 		System.out.println("1 -> DEPOT");
